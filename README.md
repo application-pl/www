@@ -1,8 +1,7 @@
-## Application .pl
-
 ![application - logo](https://application-pl.github.io/logo/2/cover.png)
 
-## application.pl
+# [www.application.pl](https://application.pl/#/)
+
 (naszeprogramy.pl)
 + [Application Software Development](https://www.application.pl/)
 + [Application - Dokumentacja](https://docs.application.pl/)
